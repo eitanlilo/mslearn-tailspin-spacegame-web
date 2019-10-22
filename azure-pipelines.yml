@@ -48,4 +48,4 @@ steps:
 
 - task: PublishBuildArtifacts@1
   inputs:
-    artifactName: 'Publish Artifact: drop'
+    artifactName: 'Publish Artifact - drop'
